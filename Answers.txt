@@ -1,0 +1,11 @@
+Question 1.
+    a. x > y && y > z
+    b. x < 0 && y < 0
+    c. x >= 0 && y >= 0
+    d. x == y && x != z
+
+Question 2.
+if (gpa >= 3.5)
+    System.out.println("Congratulations--you made the Dean's List");
+else
+    System.out.println("Sorry you didn't make the Dean's List");
